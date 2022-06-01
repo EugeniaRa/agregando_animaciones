@@ -94,6 +94,7 @@ p {
 #portadaPP {
     background-image: url(../img/RAHÉ\ Healthy\ Bar\ &\ Coffee\ -PORTPP2.png)
    
+   
 }
 
 #portada p {
@@ -111,5 +112,20 @@ p {
 #portada p span {
     color: #D6BD9A;
 }
+
+.nav-link {
+    background-image: linear-gradient(180deg, #fff, #666);
+
+}
+.home_menu-texto{
+    transform: skew(30deg, 20deg);
+}
+
+
+.portadap{
+    height: 20%;
+    transition: all 0.5s ease-out;
+}
+
 
 
